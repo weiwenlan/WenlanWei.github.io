@@ -1,3 +1,35 @@
+# Wei Wenlan
+## +86 13693092812| weiwenlan1999@gmail.com
+
+## PERSONAL
+•	GPA: 3.70/4.00 (rank top 5%); 
+•	Data Structure and Algorithms 97/100 
+•	TOFEL 102( Reading:27, Listening:28, Speaking:23, Writing:24)        10/28/2018                                            •	GRE 322(V:154 Q:168)								 	     9/20/2019
+
+
+
+## EDUCATION
+•	GPA: 3.70/4.00 (rank top 10%); 
+•	“The Second Prize Scholarship of Students” Oct.2018
+•	The LuoJia Outstanding Exchange Scholarship 
+•	Data Structure and Algorithms 97/100 
+•	TOFEL 102( Reading:27, Listening:28, Speaking:23, Writing:24).                                                       10/28/2018
+•	GRE 322(V:154 Q:168)								 	     9/20/2019
+•	National Computer Test(Brand Two: Python Language Programming)
+
+## PATENT
+•	A Method to Construct Natural Scene Data Set Suitable for Computer Vision
+•	A Method for Image Super-resolution Reconstruction based on Lightweight Network
+
+
+
+## PRIZE
+•	“The Second Prize Scholarship of Students” Oct.2018
+•	“The Third Prize Scholarship of Students” Oct.2018
+•	National Computer Test(Brand Two: Python Language Programming)
+•	The LuoJia Outstanding Exchange Scholarship 
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/weiwenlan/WenlanWei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
