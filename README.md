@@ -3,7 +3,7 @@ an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
 
 ### **+86 13693092812| weiwenlan1999@gmail.com**
 
-![](https://github.com/weiwenlan/weiwenlan.github.io/blob/master/IMG_4245_di.jpg)
+![image](/IMG_4245_di.jpg)
 
 
 # PERSONAL
