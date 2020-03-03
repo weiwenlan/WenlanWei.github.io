@@ -3,6 +3,9 @@ an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
 
 ### **+86 13693092812| weiwenlan1999@gmail.com**
 
+![](/weiwenlan.github.io/IMG_4245_di.jpg)
+
+
 # PERSONAL
 -	**GPA**: 3.70/4.00 (rank top **5%**); 
 -	TOFEL 102( Read:27, Listen:28, **Speak:23**, Write:24)10/28/2018                                             
