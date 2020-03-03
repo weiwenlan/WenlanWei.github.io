@@ -2,9 +2,9 @@
 ## +86 13693092812| weiwenlan1999@gmail.com
 
 ## PERSONAL
-•	GPA: 3.70/4.00 (rank top 5%); 
-•	Data Structure and Algorithms 97/100 
-•	TOFEL 102( Reading:27, Listening:28, Speaking:23, Writing:24)        10/28/2018                                            •	GRE 322(V:154 Q:168)								 	     9/20/2019
+-	GPA: 3.70/4.00 (rank top 5%); 
+-	Data Structure and Algorithms 97/100 
+-	TOFEL 102( Reading:27, Listening:28, Speaking:23, Writing:24)        10/28/2018                                            - GRE 322(V:154 Q:168)								 	     9/20/2019
 
 
 
