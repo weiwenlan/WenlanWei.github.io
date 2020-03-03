@@ -59,13 +59,13 @@ Jul. 2019 – Aug. 2019
 
 ## Wuhan University, Signal Processing Lab - Research on Bio-Image
 Jul. 2019 – Oct.2019
-**Assistant Research** 
+**Assistant Researcher** 
 * In this project, we are trying to build up a system to identify the cervical artery plaques by using the computer vision technology with the ultrasound machines. To accomplish the project, we cooperate with the Zhongnan Hospital.
 * We won the Second Prize of the 5th China Internet Innovation and Entrepreneurship Competition. 
 
 ## Wuhan University, Signal Processing Lab - Research on Image project
 Sep. 2018 – Present
-**Assistant Research** 
+**Assistant Researcher** 
 -	Put efforts in computer vision including various fields: **Image Retrieval, Image Super-Resolution, Object Detection etc**.
 
 ### Image Retrieval System: 
