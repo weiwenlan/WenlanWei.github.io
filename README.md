@@ -1,7 +1,7 @@
 # Wei Wenlan
 an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
-### **wwl999@whu.edu.cn**
-### **+86 13693092812| weiwenlan1999@gmail.com**
+#### **wwl999@whu.edu.cn**
+#### **+86 13693092812| weiwenlan1999@gmail.com**
 
 ![image](/IMG_4245_di.jpg)
 
