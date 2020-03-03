@@ -2,7 +2,7 @@
 an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
 **+86 13693092812| weiwenlan1999@gmail.com**
 
-## PERSONAL
+# PERSONAL
 -	GPA: 3.70/4.00 (rank top 5%); 
 -	TOFEL 102( Read:27, Listen:28, Speak:23, Write:24)10/28/2018                                             
 - GRE 322(V:154 Q:168)                              9/20/2019
@@ -16,8 +16,10 @@ an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
     - Machine Learning(4.0/4.0)
     - Robotic Vision(4.0/4.0)
     - Data Structure and Algorithms(4.0/4,0) (97/100) 
-    - Artificial Intelligence(4.0/4,0)		 	     
-## EDUCATION
+    - Artificial Intelligence(4.0/4,0)
+
+
+# EDUCATION
 * **B.Eng. in Electronic Information Engineering** , [Electronic Information School, Wuhan University](http://eis.whu.edu.cn/index.shtml)
 *Sept 2017 - present*
 * **Assistant researcher** in [Digtal Signal Process Lab, Wuhan University](http://dsp.whu.edu.cn/)
@@ -40,46 +42,44 @@ an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
 * National Computer Test(Brand Two: Python Language Programming)
 * **The LuoJia Outstanding Exchange Scholarship** Oct.2019
 
-## WORK AND RESEARCH EXPERIENCE
+# WORK AND RESEARCH EXPERIENCE
 
-### Imperial College, Computer Department - Research on Robotic arm 
+## Imperial College, Computer Department - Research on Robotic arm 
 Jul. 2019 – Aug. 2019
 **Leader** 
-#### GOAL
+### GOAL
 - For one month, students are trying to work out a program on the hardware platform of a 3d camera and a robotic arm.
 
-#### 	Trash Classify system: 
+### Trash Classify system: 
 -	Our group is trying to build a system including: the interface, the cloud server and the hardware to classify waste. We finally finished a system which is able to *sort various kinds of daily waste* by using the camera sorting and providing location and the robotic arm grabbing and putting it in the right area. The disparate calculation and the object detection were used to help building up the whole system.
 -	As the **leader** of the group, I mainly dealt with the object detection part which was closed to my past research experience. I was also in charge of the whole team ‘s pace and allocated everyday ’s work to ensure we were on the right track to our goal and exerted the strength of my group members. At the final, I made a video to fully show our hardworking result and acted as the speaker of the group as well. 
 -	We awarded the **Best Overall Prize** in the end, judgement made by the **Prof. Guangzhong Yang**, Deputy Chairman of the Institute of Global Health Innovation, Imperial College London, UK.
 
-#### [More Details with the code and Final Project.](https://github.com/weiwenlan/Trash-classification-robotic-arm)
+### [More Details with the code and Final Project.](https://github.com/weiwenlan/Trash-classification-robotic-arm)
 
-### Wuhan University, Signal Processing Lab - Research on Bio-Image
+## Wuhan University, Signal Processing Lab - Research on Bio-Image
 Jul. 2019 – Oct.2019
 **Assistant Research** 
 * In this project, we are trying to build up a system to identify the cervical artery plaques by using the computer vision technology with the ultrasound machines. To accomplish the project, we cooperate with the Zhongnan Hospital.
 * We won the Second Prize of the 5th China Internet Innovation and Entrepreneurship Competition. 
 
-### Wuhan University, Signal Processing Lab - Research on Image project
+## Wuhan University, Signal Processing Lab - Research on Image project
 Sep. 2018 – Present
 **Assistant Research** 
 -	Put efforts in computer vision including various fields: **Image Retrieval, Image Super-Resolution, Object Detection etc**.
 
-#### Image Retrieval System: 
+### Image Retrieval System: 
 **Member**
 -	System is used to analyze the location of the object from several images.
 -	I mainly took the responsibility of *image retrieval part* with training and network building. With the help of my teammates, we built a small database and trained an own retrieval network. During this program, I applied for 2 patents and a software copyright for my network.
 
-#### 	Research on Super Resolution Reconstruction Technology for Mobile: 
+### Research on Super Resolution Reconstruction Technology for Mobile: 
 **Leader**
 -	We intend to design a new network which is suitable for the portable devices and also combined with an app that enables users could lunch the *super resolution* network.
 -	This is a program financed by *the National Innovation and Entrepreneurship Training Program* in which I am the leader of the group. I am in charge of the whole team’s pace, *the speech and the essay writing*. I also did a lot of work to apply for the fund including the writing of the application and the speech to show the feasibility of our research.
 -	Besides the management work, I am mainly in charge of the **network building**. We are trying to post a paper for this project.
 
-
-
-## LEADERSHIP AND COMMUNITY ACTIVITIES
+# LEADERSHIP AND COMMUNITY ACTIVITIES
 *Student Union of college*
 Sep. 2017 – Sep. 2018
 - Work in the secretariat which is mainly responsible for the organization and management of whole student union ‘s several departments as a whole.
