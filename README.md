@@ -3,7 +3,7 @@ an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
 
 ### **+86 13693092812| weiwenlan1999@gmail.com**
 
-![](/weiwenlan.github.io/IMG_4245_di.jpg)
+![](https://github.com/weiwenlan/weiwenlan.github.io/blob/master/IMG_4245_di.jpg)
 
 
 # PERSONAL
@@ -38,10 +38,10 @@ an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
 
 ## PAPER
 [**Lightweight Image Super-Resolution with Mobile Share-Source Network**](https://github.com/weiwenlan/weiwenlan.github.io/blob/master/access.pdf) being examined and verified
-![](/weiwenlan.github.io/IMG_4245_di.jpg)
+![](https://github.com/weiwenlan/weiwenlan.github.io/blob/master/net.png)
 
 ## PRIZE
-* **"Best over all Prize"** in Summer research in Imperial College London Sep.2019
+* [**"Best over all Prize"**](https://github.com/weiwenlan/weiwenlan.github.io/blob/master/%E8%AF%81%E4%B9%A61.pdf) in Summer research in Imperial College London Sep.2019
 * **the Second Prize of the 5th China Internet Innovation and Entrepreneurship Competition.** Oct.2019
 * **"The Second Prize Scholarship of Students"** Oct.2018
 * **"The Third Prize Scholarship of Students"** Oct.2018
@@ -63,7 +63,7 @@ Jul. 2019 – Aug. 2019
 
 ### [More Details with the code and Final Project.](https://github.com/weiwenlan/Trash-classification-robotic-arm)
 
-![](/weiwenlan.github.io/ic.jpg)
+![image](https://github.com/weiwenlan/weiwenlan.github.io/blob/master/ic.jpg)
 
 ## Wuhan University, Signal Processing Lab - Research on Bio-Image
 Jul. 2019 – Oct.2019
@@ -87,7 +87,7 @@ Sep. 2018 – Present
 -	This is a program financed by **the National Innovation and Entrepreneurship Training Program** in which I am the leader of the group. I am in charge of the whole team’s pace, **the speech and the essay writing**. I also did a lot of work to apply for the fund including the writing of the application and the speech to show the feasibility of our research.
 -	Besides the management work, I am mainly in charge of the **network building**. We are trying to post a paper for this project.
 
-![](/weiwenlan.github.io/图片1.png)
+![image](https://github.com/weiwenlan/weiwenlan.github.io/blob/master/%E5%9B%BE%E7%89%87%201.png)
 
 # LEADERSHIP AND COMMUNITY ACTIVITIES
 *Student Union of college*
