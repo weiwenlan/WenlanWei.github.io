@@ -37,7 +37,8 @@ an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
 2.	**A Method for Image Super-resolution Reconstruction based on Lightweight Network**
 
 ## PAPER
-**Lightweight Image Super-Resolution with Mobile Share-Source Network** being examined and verified
+[**Lightweight Image Super-Resolution with Mobile Share-Source Network**](https://github.com/weiwenlan/weiwenlan.github.io/blob/master/access.pdf) being examined and verified
+![](/weiwenlan.github.io/IMG_4245_di.jpg)
 
 ## PRIZE
 * **"Best over all Prize"** in Summer research in Imperial College London Sep.2019
@@ -62,6 +63,8 @@ Jul. 2019 – Aug. 2019
 
 ### [More Details with the code and Final Project.](https://github.com/weiwenlan/Trash-classification-robotic-arm)
 
+![](/weiwenlan.github.io/ic.jpg)
+
 ## Wuhan University, Signal Processing Lab - Research on Bio-Image
 Jul. 2019 – Oct.2019
 **Assistant Researcher** 
@@ -83,6 +86,8 @@ Sep. 2018 – Present
 -	We intend to design a new network which is suitable for the portable devices and also combined with an app that enables users could lunch the **super resolution** network.
 -	This is a program financed by **the National Innovation and Entrepreneurship Training Program** in which I am the leader of the group. I am in charge of the whole team’s pace, **the speech and the essay writing**. I also did a lot of work to apply for the fund including the writing of the application and the speech to show the feasibility of our research.
 -	Besides the management work, I am mainly in charge of the **network building**. We are trying to post a paper for this project.
+
+![](/weiwenlan.github.io/图片1.png)
 
 # LEADERSHIP AND COMMUNITY ACTIVITIES
 *Student Union of college*
