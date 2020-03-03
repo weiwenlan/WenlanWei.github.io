@@ -14,10 +14,10 @@ an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
 - Experiment Skill: PCB board welding, Fiber cleaving and welding
 -	Course experience
     - Computer Vision(3.7/4.0) 
-    - Machine Learning**(4.0/4.0)**
-    - Robotic Vision**(4.0/4.0)**
-    - Data Structure and Algorithms**(4.0/4,0) (97/100)** 
-    - Artificial Intelligence**(4.0/4,0)**
+    - Machine Learning **(4.0/4.0)**
+    - Robotic Vision **(4.0/4.0)**
+    - Data Structure and Algorithms **(4.0/4,0) (97/100)** 
+    - Artificial Intelligence **(4.0/4,0)**
 
 
 # EDUCATION
