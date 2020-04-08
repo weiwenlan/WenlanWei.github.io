@@ -37,7 +37,7 @@ an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
 2.	**A Method for Image Super-resolution Reconstruction based on Lightweight Network**
 
 ## PAPER
-[**Lightweight Image Super-Resolution with Mobile Share-Source Network**](https://github.com/weiwenlan/weiwenlan.github.io/blob/master/access.pdf) [LINK](https://ieeexplore.ieee.org/document/9045996?source=authoralert)
+**Lightweight Image Super-Resolution with Mobile Share-Source Network** [**PDF**](https://github.com/weiwenlan/weiwenlan.github.io/blob/master/access.pdf)[**LINK**](https://ieeexplore.ieee.org/abstract/document/9045996)
 
 ## PRIZE
 * [**"Best over all Prize"**](https://github.com/weiwenlan/weiwenlan.github.io/blob/master/%E8%AF%81%E4%B9%A61.pdf) in Summer research in Imperial College London Sep.2019
