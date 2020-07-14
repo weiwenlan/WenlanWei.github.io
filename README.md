@@ -53,6 +53,7 @@ an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
 
 ## University of California San Diego,Electrical and Computer Engineering
 Mar. 2020 – Jul.2020
+
 Because of the COVID-19, I have applied for the remote summer research and thanks to the Prof. Xie who offers me this opportunity. Also, I want to thanks to Dr. He who works with me and render lots of assistances to me. In three months, I mainly put my efforts in two projects.
 
 ### DenseUNet 3D and COVID-19 Database
@@ -79,6 +80,8 @@ Jul. 2019 – Aug. 2019
 ### [More Details with the code and Final Project.](https://github.com/weiwenlan/Trash-classification-robotic-arm)
 
 ![image](/ic.jpg)
+
+**Due to the ban from the US government, our collaboration was forced to be eliminated.**
 
 ## Wuhan University, Signal Processing Lab - Research on Bio-Image
 Jul. 2019 – Oct.2019
