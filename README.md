@@ -57,12 +57,13 @@ Because of the COVID-19, I have applied for the remote summer research and thank
 
 ### DenseUNet 3D and COVID-19 Database
 In this project, Prof. Xie asked me to apply DenseUnet 3D with open source COVID-19 database. This task is aim to use Neural network to distinguish tissues with **inflammation in lung**. I learned about how to deal with the **medical images** which contains depth information, including dicom, mhd and Nifti. It is also fresh knowledge that how to generate masks and labels them with Neural Network. Various kinds of method are used to enhance images, setting thresholds and cropping , I finally completed whole experiment with the standard IOU 0.63 and DICE Coeff 0.68 on the CUDA platform.
-
+![image](/mask.png)
 ### Medical Visual Question Answering
 After the implementation of DenseUnet, Prof. Xie let me work with Dr. He on the task of VQA network. This work is mainly aim to build up an open source database which contains assorted questions and answers for further training.  I have hone my ability in dealing with practical problems.
 - I have wrote a **crawler** to grab both images and captions from open source website, textbooks and public database. **More than 20000** images and their captions are being collected. I use Beautiful Soup to generate a parser to access the urls and tags of the images on the website pages, both asynchronous loading and synchronous loading.
 - For the captions, we need to generate appropriate questions to make them a question-answer pair.  We perform **language processing** of the captions using the Stanford CoreNLP toolkit, including sentence split, tokenization, part-of-speech (POS) tagging, constituent parsing, and dependency parsing.
 - After data being collected, I put my efforts in the VQA network from which we want to check how some of state of art networks perform on the new dataset. I have researched a bunch of networks, including Pythia, Lxmert, OpenVQA, DFAF and so on. I choose **LXMERT** to perform all functions. As the LXMERT is a network with encoders and decoders, it requires all images and QA pairs are encoded to enhance the speed of training. So I first use Faster RCNN to extract features and bboxes on remote server. Then I modified all answers and numbered them in a proper and unique form. Once the data loader was adjusted, I finally applied LXMERT on the X-ray dataset( a relative smaller one we created) and got the **F1 0.6977.**
+![image](/VQA.png)
 
 ## Imperial College, Computer Department - Research on Robotic arm 
 Jul. 2019 – Aug. 2019
