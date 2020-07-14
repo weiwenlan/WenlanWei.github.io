@@ -66,6 +66,8 @@ After the implementation of DenseUnet, Prof. Xie let me work with Dr. He on the 
 - After data being collected, I put my efforts in the VQA network from which we want to check how some of state of art networks perform on the new dataset. I have researched a bunch of networks, including Pythia, Lxmert, OpenVQA, DFAF and so on. I choose **LXMERT** to perform all functions. As the LXMERT is a network with encoders and decoders, it requires all images and QA pairs are encoded to enhance the speed of training. So I first use Faster RCNN to extract features and bboxes on remote server. Then I modified all answers and numbered them in a proper and unique form. Once the data loader was adjusted, I finally applied LXMERT on the X-ray dataset( a relative smaller one we created) and got the **F1 0.6977.**
 ![image](/VQA.png)
 
+**Due to the ban from the US government, our collaboration was forced to be eliminated.**
+
 ## Imperial College, Computer Department - Research on Robotic arm 
 Jul. 2019 – Aug. 2019
 **Leader** 
@@ -81,7 +83,7 @@ Jul. 2019 – Aug. 2019
 
 ![image](/ic.jpg)
 
-**Due to the ban from the US government, our collaboration was forced to be eliminated.**
+
 
 ## Wuhan University, Signal Processing Lab - Research on Bio-Image
 Jul. 2019 – Oct.2019
