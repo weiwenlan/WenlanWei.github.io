@@ -54,7 +54,7 @@ an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
 ## University of California San Diego,Electrical and Computer Engineering
 Mar. 2020 – Jul.2020
 
-Because of the COVID-19, I have applied for the remote summer research and thanks to the Prof. Xie who offers me this opportunity. Also, I want to thanks to Dr. He who works with me and render lots of assistances to me. In three months, I mainly put my efforts in two projects.
+Because of the COVID-19, I have applied for the remote summer research and thanks to the [Prof. Xie](https://sites.google.com/site/pengtaoxie2008/) who offers me this opportunity. Also, I want to thanks to [Dr. He](https://jkooy.github.io/) who works with me and render lots of assistances to me. In three months, I mainly put my efforts in two projects.
 
 ### DenseUNet 3D and COVID-19 Database
 In this project, Prof. Xie asked me to apply DenseUnet 3D with open source COVID-19 database. This task is aim to use Neural network to distinguish tissues with **inflammation in lung**. I learned about how to deal with the **medical images** which contains depth information, including dicom, mhd and Nifti. It is also fresh knowledge that how to generate masks and labels them with Neural Network. Various kinds of method are used to enhance images, setting thresholds and cropping , I finally completed whole experiment with the standard IOU 0.63 and DICE Coeff 0.68 on the CUDA platform.
