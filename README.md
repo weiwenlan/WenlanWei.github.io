@@ -8,7 +8,7 @@ an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
 
 # PERSONAL
 -	**GPA**: 3.70/4.00 (rank top **5%**); 
--	TOFEL 102( Read:27, Listen:28, **Speak:23**, Write:24)10/28/2018                                             
+-	TOFEL 104( Read:28, Listen:28, **Speak:23**, Write:25)14/7/2020                                             
 - **GRE 322**(V:154 Q:168)                              9/20/2019
 - Computer Skills:
     -	Programming : C/C++, **Python**, TensorFlow, **Pytorch**
