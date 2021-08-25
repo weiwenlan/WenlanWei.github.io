@@ -2,7 +2,6 @@
 
 Master in Electric and Computer Engineer at [Cornell Tech](https://www.tech.cornell.edu/)
 
-Undergraduate student at [Wuhan University](https://en.whu.edu.cn/) (Graduated in 2021)
 
 
 #### **ww367@cornell.edu**
@@ -31,21 +30,29 @@ Undergraduate student at [Wuhan University](https://en.whu.edu.cn/) (Graduated i
 
 # EDUCATION
 * **B.Eng. in Electronic Information Engineering** , [Electronic Information School, Wuhan University](http://eis.whu.edu.cn/index.shtml)
-*Sept 2017 - present*
-* **Assistant researcher** in [Digtal Signal Process Lab, Wuhan University](http://dsp.whu.edu.cn/)
-*Nov 2017 - present*
+*Sep 2017 - Jul 2021*
+* **Assistant researcher** in [University of California San Diego](https://ucsd.edu/)
+*Apr. 2020 – Aug. 2020*
 * **Team Leader** in [Imperial College London](https://www.imperial.ac.uk/)
-*Jul. 2019 – Aug. 2019*
+*Jul. 2019 – Sep. 2019*
+* **Assistant researcher** in [Digtal Signal Process Lab, Wuhan University](http://dsp.whu.edu.cn/)
+*Nov 2018 - Nov 2019*
+
 
 # AWARDS
 ## PATENT
 1. **A Method to Construct Natural Scene Data Set Suitable for Computer Vision**
-2.	**A Method for Image Super-resolution Reconstruction based on Lightweight Network**
+2. **A Method for Image Super-resolution Reconstruction based on Lightweight Network**
 
 ## PAPER
+**Towards Visual Question Answering on Pathology Images DOI:10.18653/v1/2021.acl-short.90** [[**PDF**](https://aclanthology.org/2021.acl-short.90.pdf)][[**LINK**](https://aclanthology.org/2021.acl-short.90/)]
 **Lightweight Image Super-Resolution with Mobile Share-Source Network in IEEE Access, vol. 8, pp. 60008-60018, 2020, doi: 10.1109/ACCESS.2020.2983079.** [[**PDF**](https://github.com/weiwenlan/weiwenlan.github.io/blob/master/access.pdf)][[**LINK**](https://ieeexplore.ieee.org/abstract/document/9045996)]
 
+
+
 ## PRIZE
+* **Merit Scholarship** Cornell Tech Oct.2020
+* **Excellent National Project** Issued by the Ministry of Education  Nov. 2020
 * [**"Best over all Prize"**](https://github.com/weiwenlan/weiwenlan.github.io/blob/master/%E8%AF%81%E4%B9%A61.pdf) in Summer research in Imperial College London Sep.2019
 * **the Second Prize of the 5th China Internet Innovation and Entrepreneurship Competition.** Oct.2019
 * **"The Second Prize Scholarship of Students"** Oct.2018
@@ -53,21 +60,61 @@ Undergraduate student at [Wuhan University](https://en.whu.edu.cn/) (Graduated i
 * National Computer Test(Brand Two: Python Language Programming)
 * **The LuoJia Outstanding Exchange Scholarship** Oct.2019
 
-# WORK AND RESEARCH EXPERIENCE
+
+## EXPERIENCE
+VMware, SDE Intern, Beijing
+Nov 2020 – Jul 2021
+- Design and utilize the code comprehension model to generate annotation and summary.
+- Design a system to manage and reveal the structure of the python programs to tackle the growing complexity problems.
+- Develop 3 models, Table Recognition, Latex Formula Recognition and Model to extract information from Zoom recording. 
+
+Baidu AI Lab, RD, Beijing		
+Aug 2020- Nov 2020
+- Developed and deployed a scene classification network service and the SKU boxes counting and inference service for businesses to estimate their advertising cost.
+- Optimized the products retrieval system, applied various strategies to boost the recall and precision.	
+
+
+
+# WORK AND RESEARCH PROJECT
+
+## VMWare
+
+### Table OCR
+- Recognize Table with super light model.
+- Deployed with Kubernetes.
+[Github](https://github.com/weiwenlan/Table_Ocr_With_Paddle)
+![image](/table.png)
+
+### Zoom Meeting Powerpoint Extraction 
+
+![image](/delta.png)
+
+### Python Module Analysis
+
+[Github](https://github.com/weiwenlan/PYSA)
+![image](/call_graph.dot.svg)
+
+### Latex Fourmula OCR
+
+[Github](https://github.com/weiwenlan/LaTeX-OCR)
+![image](/Latex.png)
 
 ## University of California San Diego,Electrical and Computer Engineering
-Mar. 2020 – Jul.2020
+Mar. 2020 – Sep. 2020
+Applied for the remote summer research during Covid-19 and thanks to the [Prof. Xie](https://sites.google.com/site/pengtaoxie2008/) 
 
-Because of the COVID-19, I have applied for the remote summer research and thanks to the [Prof. Xie](https://sites.google.com/site/pengtaoxie2008/) who offers me this opportunity. Also, I want to thanks to [Dr. He](https://jkooy.github.io/) who works with me and render lots of assistances to me. In three months, I mainly put my efforts in two projects.
+### DenseUNet 3D and COVID-19 Data Set
 
-### DenseUNet 3D and COVID-19 Database
-In this project, Prof. Xie asked me to apply DenseUnet 3D with open source COVID-19 database. This task is aim to use Neural network to distinguish tissues with **inflammation in lung**. I learned about how to deal with the **medical images** which contains depth information, including dicom, mhd and Nifti. It is also fresh knowledge that how to generate masks and labels them with Neural Network. Various kinds of method are used to enhance images, setting thresholds and cropping , I finally completed whole experiment with the standard IOU 0.63 and DICE Coeff 0.68 on the CUDA platform.
+* Apply DenseUnet 3D with open source COVID-19 data set. 
+* Distinguish tissues with **inflammation in lung**. 
+* Completed whole experiment with the standard IOU 0.63 and DICE Coeff 0.68 on the CUDA platform.
 ![image](/mask.png)
+
 ### Medical Visual Question Answering
-After the implementation of DenseUnet, Prof. Xie let me work with Dr. He on the task of VQA network. This work is mainly aim to build up an open source database which contains assorted questions and answers for further training.  I have hone my ability in dealing with practical problems.
-- I have wrote a **crawler** to grab both images and captions from open source website, textbooks and public database. **More than 20000** images and their captions are being collected. I use Beautiful Soup to generate a parser to access the urls and tags of the images on the website pages, both asynchronous loading and synchronous loading.
-- For the captions, we need to generate appropriate questions to make them a question-answer pair.  We perform **language processing** of the captions using the Stanford CoreNLP toolkit, including sentence split, tokenization, part-of-speech (POS) tagging, constituent parsing, and dependency parsing.
-- After data being collected, I put my efforts in the VQA network from which we want to check how some of state of art networks perform on the new dataset. I have researched a bunch of networks, including Pythia, Lxmert, OpenVQA, DFAF and so on. I choose **LXMERT** to perform all functions. As the LXMERT is a network with encoders and decoders, it requires all images and QA pairs are encoded to enhance the speed of training. So I first use Faster RCNN to extract features and bboxes on remote server. Then I modified all answers and numbered them in a proper and unique form. Once the data loader was adjusted, I finally applied LXMERT on the X-ray dataset( a relative smaller one we created) and got the **F1 0.6977.**
+Build up an open source data set which contains assorted questions and answers for VQA tasks.
+- Collected more than 20,000 images and captions. 
+- Did experiments with VQA models to perform all functions; modified all answers and applied state-of-art models on the X-ray and Pathology dataset.
+- Explored influence of various kinds of pretraining tasks, including image to question, question to answers, mask words, image to answers, etc.
 ![image](/VQA.png)
 
 **Due to the ban from the US government, our collaboration was forced to be eliminated.**
@@ -79,9 +126,9 @@ Jul. 2019 – Aug. 2019
 - For one month, students are trying to work out a program on the **hardware platform of a 3d camera and a robotic arm.**
 
 ### Trash Classify system: 
--	Our group is trying to build a system including: **the interface, the cloud server and the hardware** to classify waste. We finally finished a system which is able to *sort various kinds of daily waste* by using the camera sorting and providing location and the robotic arm grabbing and putting it in the right area. The disparate calculation and the object detection were used to help building up the whole system.
--	As the **leader** of the group, I mainly dealt with the **object detection** part which was closed to my past research experience. I was also in charge of the *whole team ‘s pace and allocated everyday’s work* to ensure we were on the right track to our goal and exerted the strength of my group members. At the final, I made a **video** to fully show our hardworking result and acted as the speaker of the group as well. 
--	We awarded the **Best Overall Prize** in the end, judgement made by the **Prof. Guangzhong Yang**, Deputy Chairman of the Institute of Global Health Innovation, Imperial College London, UK.
+-	Build a system including: **the interface, the cloud server and the hardware** to classify waste. 
+-	Dealt with the **object detection** part. 
+-	Awarded the **Best Overall Prize**, judgement made by the **Prof. Guangzhong Yang**.
 
 ### [More Details with the code and Final Project.](https://github.com/weiwenlan/Trash-classification-robotic-arm)
 
@@ -92,7 +139,7 @@ Jul. 2019 – Aug. 2019
 ## Wuhan University, Signal Processing Lab - Research on Bio-Image
 Jul. 2019 – Oct.2019
 **Assistant Researcher** 
-* In this project, we are trying to build up a system to **identify the cervical artery plaques by using the computer vision technology** with the ultrasound machines. To accomplish the project, we cooperate with the ZhongNan Hospital.
+* Build up a system to **identify the cervical artery plaques by using the computer vision technology** with the ultrasound machines. To accomplish the project, we cooperate with the ZhongNan Hospital.
 * We won **the Second Prize of the 5th China Internet Innovation and Entrepreneurship Competition.** 
 
 ## Wuhan University, Signal Processing Lab - Research on Image project
@@ -103,13 +150,13 @@ Sep. 2018 – Present
 ### Image Retrieval System: 
 **Member**
 -	System is used to analyze the location of the object from several images.
--	I mainly took the responsibility of **image retrieval part** with training and network building. With the help of my teammates, we built a small database and trained an own retrieval network. During this program, I applied for **2 patents and a software copyright** for my network.
+-	Took the responsibility of **image retrieval part** 
 
 ### Research on Super Resolution Reconstruction Technology for Mobile: 
 **Leader**
--	We intend to design a new network which is suitable for the portable devices and also combined with an app that enables users could lunch the **super resolution** network.
--	This is a program financed by **the National Innovation and Entrepreneurship Training Program** in which I am the leader of the group. I am in charge of the whole team’s pace, **the speech and the essay writing**. I also did a lot of work to apply for the fund including the writing of the application and the speech to show the feasibility of our research.
--	Besides the management work, I am mainly in charge of the **network building**. We are trying to post a paper for this project.
+-	Design a new  **super resolution** network for the portable devices.
+-	In charge of the **network building**.
+-	Awarded **Excellent National Project**, issued by the Ministry of Education.
 
 ![image](/%E5%9B%BE%E7%89%87%201.png)
 
