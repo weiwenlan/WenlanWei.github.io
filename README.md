@@ -1,15 +1,19 @@
 # Wei Wenlan
-an  junior undergraduate student at [Wuhan University](https://en.whu.edu.cn/)
-#### **wwl999@whu.edu.cn**
-#### **+86 13693092812| weiwenlan1999@gmail.com**
+
+Master in Electric and Computer Engineer at [Cornell Tech](https://www.tech.cornell.edu/)
+
+Undergraduate student at [Wuhan University](https://en.whu.edu.cn/) (Graduated in 2021)
+
+
+#### **ww367@cornell.edu**
+#### **+86 13693092812| +1 347-620-8461 | weiwenlan1999@gmail.com**
 
 ![image](/IMG_4245_di.jpg)
 
 
 # PERSONAL
--	**GPA**: 3.70/4.00 (rank top **5%**); 
--	TOFEL 104( Read:28, Listen:28, **Speak:23**, Write:25)14/7/2020                                             
-- **GRE 322**(V:154 Q:168)                              9/20/2019
+-	Wuhan University **GPA**: 3.70/4.00 (rank top **5%**); 
+
 - Computer Skills:
     -	Programming : C/C++, **Python**, TensorFlow, **Pytorch**
     -	Software: **MATLAB**, Multisim 
